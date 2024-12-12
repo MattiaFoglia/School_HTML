@@ -1,0 +1,89 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+img{
+
+ height:15% ;
+ width:15%;
+
+}
+
+#scritta{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+table{
+
+    text-align: center;
+    border: 1px solid rgb(255, 0, 0);
+    border-collapse: collapse;
+    width:66%;
+    height:85%;
+    margin-left: auto;
+    margin-right:auto;
+}
+td{
+    border: 1px solid rgb(255, 0, 0);
+    border-collapse: collapse;
+   
+
+}
+
+div{
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+
+}
+body{
+    background-color: gray;
+}
+
+p{
+    
+    text-align: center;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.Blu{
+    background-color: blue;
+}
+.Giallo{
+    background-color: yellow;
+}
+.Verde{
+    background-color: greenyellow
+}
+.Verdes{
+    background-color: green
+}
+
+.Blul{
+    background-color: aqua;
+}
+.cor{
+    background-color: coral;
+}
+.Viol{
+    background-color: blueviolet;
+}
+.pink{
+    background-color: darksalmon;
+}
+.rosso{
+    background-color: red;
+}
+
+.gold{
+    background-color: darkgoldenrod;
+}
+
+.j{
+    background-color: grey;
+}
+
